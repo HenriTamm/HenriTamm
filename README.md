@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @HenriTamm
+- 👀 I’m experienced in Java Spring and backend development.
+- 🌱 I’m currently learning ReactJS.
+- ✨ I’m interested in drumming, surfing and tennis.
